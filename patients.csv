@@ -1,0 +1,6 @@
+PatientID,Name,Age,Gender,Phone,Disease
+101,Rahul,25,Male,9876543210,Fever
+102,,30,Female,9876543211,Diabetes
+103,Amit,-5,Male,9876543212,Cold
+104,Priya,130,Female,9876543213,Cancer
+105,Riya,28,Female,98765,Asthma
